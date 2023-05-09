@@ -4,7 +4,7 @@
 .DESCRIPTION
    Prereq for succesfull installation when the following error occurs:
    Internal error: Failed to expand shell folder constant "userdocs"
-   Created "C:\Windows\SysWOW64\config\systemprofile\Documents" manually to bypass the installation error.
+   Created: "C:\Windows\SysWOW64\config\systemprofile\Documents" manually to bypass the installation error.
 .EXAMPLE
    Could also be used for the error "userdocuments", just replace below
 .NOTES
