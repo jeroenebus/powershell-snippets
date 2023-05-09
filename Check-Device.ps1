@@ -1,14 +1,14 @@
 <#
 .Synopsis
-   Little script to set a device vendor requirement on a Intune application
+    Little script to set a device vendor requirement on a Intune application
 .DESCRIPTION
-   This script will check if the vendor of a specifc device is from a certain brand (e.g HP)
+    This script will check if the vendor of a specifc device is from a certain brand (e.g HP)
 .EXAMPLE
-   Replace HP with every other system vender you would like to set the requirement to
+    Replace HP with every other system vender you would like to set the requirement to
 .NOTES
     Filename: Check-Device.ps1
     Author: Jeroen Ebus (https://manage-the.cloud) 
-    Modified date: 2023-05-08
+    Modified date: 2023-05-09
     Version 1.0 - Release notes/details
 #>
 

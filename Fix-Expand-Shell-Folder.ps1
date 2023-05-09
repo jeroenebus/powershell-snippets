@@ -8,10 +8,10 @@
 .EXAMPLE
    Could also be used for the error "userdocuments", just replace below
 .NOTES
-    Filename: Fix-Expand-Shell-Folder.ps1
-    Author: Jeroen Ebus (https://manage-the.cloud) 
-    Modified date: 2023-05-09
-    Version 1.0 - Release notes/details
+   Filename: Fix-Expand-Shell-Folder.ps1
+   Author: Jeroen Ebus (https://manage-the.cloud) 
+   Modified date: 2023-05-09
+   Version 1.0 - Release notes/details
 #>
 
 mkdir "C:\Windows\SysWOW64\config\systemprofile\Desktop"
