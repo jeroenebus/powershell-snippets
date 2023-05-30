@@ -6,7 +6,7 @@
 .EXAMPLE
     You can use the $fullupn further in the script as the logged on user
 .NOTES
-    Filename: Check-Device.ps1
+    Filename: Current-LoggedOn-User.ps1
     Author: Jeroen Ebus (https://manage-the.cloud) 
     Modified date: 2023-05-09
     Version 1.0 - Release notes/details
