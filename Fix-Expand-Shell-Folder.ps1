@@ -14,4 +14,4 @@
    Version 1.0 - Release notes/details
 #>
 
-mkdir "C:\Windows\SysWOW64\config\systemprofile\Desktop"
+New-Item -Path "C:\Windows\SysWOW64\config\systemprofile\Desktop"
