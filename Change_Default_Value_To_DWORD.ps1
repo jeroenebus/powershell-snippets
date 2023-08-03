@@ -1,10 +1,10 @@
 <#
 .Synopsis
-    Little script to set a device vendor requirement on a Intune application
+    Little script to change the item property of the Default vaulue to a DWORD instead of a string
 .DESCRIPTION
-    This script will check if the vendor of a specifc device is from a certain brand (e.g HP)
+    This script will change the item property of the Default value to a DWORD instead of a string
 .EXAMPLE
-    Replace HP with every other system vender you would like to set the requirement to
+    Replace the path value to the desired location
 .NOTES
     Filename: Change_Default_Value_To_DWORD.ps1
     Author: Jeroen Ebus (https://manage-the.cloud) 
